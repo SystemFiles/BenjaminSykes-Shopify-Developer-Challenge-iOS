@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "271bccb6d106781c18727a96bc8e4bf8"
+build_time: [1568745404, 30621000]
+inputs:
+  "/Users/bensykes/DATASYNC/Personal/Resume_site/Files/Shopify/ShopifyMemoryMatcher/ShopifyMemoryMatcher/View Controllers/ViewController.swift": [1568745403, 973885576]
+  "/Users/bensykes/DATASYNC/Personal/Resume_site/Files/Shopify/ShopifyMemoryMatcher/ShopifyMemoryMatcher/Classes/Card.swift": [1568741312, 544794748]
+  "/Users/bensykes/DATASYNC/Personal/Resume_site/Files/Shopify/ShopifyMemoryMatcher/ShopifyMemoryMatcher/Classes/AppDelegate.swift": [1568728295, 245358024]

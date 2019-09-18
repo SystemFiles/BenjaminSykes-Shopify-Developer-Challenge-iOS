@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3108B8DC-217C-4204-9327-513A2BE380C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3108B8DC-217C-4204-9327-513A2BE380C8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460527.82185996</real>
+			<key>timeStoppedRecording</key>
+			<real>590460533.04157603</real>
+			<key>title</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>3108B8DC-217C-4204-9327-513A2BE380C8</string>
+		</dict>
+		<key>6BB782F1-0F23-4838-8787-B710E021C53E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BB782F1-0F23-4838-8787-B710E021C53E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460131.01593399</real>
+			<key>timeStoppedRecording</key>
+			<real>590460132.11395597</real>
+			<key>title</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>6BB782F1-0F23-4838-8787-B710E021C53E</string>
+		</dict>
+		<key>90DB36E5-4D3D-4A57-9134-72CD3FCBA41E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90DB36E5-4D3D-4A57-9134-72CD3FCBA41E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460693.35019696</real>
+			<key>timeStoppedRecording</key>
+			<real>590460694.86834705</real>
+			<key>title</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>90DB36E5-4D3D-4A57-9134-72CD3FCBA41E</string>
+		</dict>
+		<key>C8277AB4-F958-472E-BB58-70B7C9A7CDBF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C8277AB4-F958-472E-BB58-70B7C9A7CDBF.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590451861.23841405</real>
+			<key>timeStoppedRecording</key>
+			<real>590451862.40276802</real>
+			<key>title</key>
+			<string>Build ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>C8277AB4-F958-472E-BB58-70B7C9A7CDBF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

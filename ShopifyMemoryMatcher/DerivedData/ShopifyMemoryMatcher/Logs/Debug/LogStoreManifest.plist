@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>02549554-5E64-4512-93E1-1B9A0BDF589C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>02549554-5E64-4512-93E1-1B9A0BDF589C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460694.81398404</real>
+			<key>timeStoppedRecording</key>
+			<real>590460984.14374495</real>
+			<key>title</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>02549554-5E64-4512-93E1-1B9A0BDF589C</string>
+		</dict>
+		<key>227F86A3-108E-4BA8-B88B-96B25C465630</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>227F86A3-108E-4BA8-B88B-96B25C465630.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460132.05634797</real>
+			<key>timeStoppedRecording</key>
+			<real>590460526.55575705</real>
+			<key>title</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>227F86A3-108E-4BA8-B88B-96B25C465630</string>
+		</dict>
+		<key>3E125492-A6E2-4EA7-A71F-DB5E3D771C31</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E125492-A6E2-4EA7-A71F-DB5E3D771C31.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590460532.99191105</real>
+			<key>timeStoppedRecording</key>
+			<real>590460693.58097994</real>
+			<key>title</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>3E125492-A6E2-4EA7-A71F-DB5E3D771C31</string>
+		</dict>
+		<key>E920751F-F3BB-4E74-804B-8DD1AE4EED3B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E920751F-F3BB-4E74-804B-8DD1AE4EED3B.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ShopifyMemoryMatcher project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ShopifyMemoryMatcher</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>timeStartedRecording</key>
+			<real>590451862.35142004</real>
+			<key>timeStoppedRecording</key>
+			<real>590452799.70462096</real>
+			<key>title</key>
+			<string>Debug ShopifyMemoryMatcher</string>
+			<key>uniqueIdentifier</key>
+			<string>E920751F-F3BB-4E74-804B-8DD1AE4EED3B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
